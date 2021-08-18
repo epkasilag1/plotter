@@ -1,5 +1,5 @@
 import math, re
-from vincenty import vincenty
+#from vincenty import vincenty
 
 def get_number_of_stations(filename):
 	f = open(filename)
